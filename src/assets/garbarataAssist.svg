@@ -1,0 +1,5 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.21" fill-rule="evenodd" clip-rule="evenodd" d="M0 30V37C0 49.7025 10.2975 60 23 60H30H37C49.7025 60 60 49.7025 60 37V30V23C60 10.2975 49.7025 0 37 0H30H23C10.2975 0 0 10.2975 0 23V30Z" fill="#39E2FB"/>
+<path d="M18 20.6665V28.6665H39.3333L43.3333 24.6665L39.3333 20.6665H18Z" stroke="#3EA9B8" stroke-width="2" stroke-linejoin="round"/>
+<path d="M29.3333 28.6665V43.3332M29.3333 16.6665V20.6665M26 43.3332H32.6667" stroke="#3EA9B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

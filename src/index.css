@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  body {
+    @apply bg-[#01a8df]; /* or your preferred color */
+  }
+}
+
+/* home-content-scrollbar */
+
+.home-content-scrollbar::-webkit-scrollbar {
+  width: 0px;
+}
+
+.home-content-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #616161;
+  border-radius: 6px;
+}
+
+.home-content-scrollbar::-webkit-scrollbar-track {
+  background-color: #989898;
+  border-radius: 6px;
+}
