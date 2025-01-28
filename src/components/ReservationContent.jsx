@@ -31,7 +31,7 @@ const ReservationContent = () => {
   }
 
   return (
-    <div className="w-full mt-3">
+    <div className="w-full mt-6">
       <div className="flex items-center justify-between pb-4 text-base font-semibold font-montserrat">
         <h1>Reservation</h1>
 
@@ -55,7 +55,7 @@ const ReservationContent = () => {
         </div>
       </div>
 
-      <div className="relative bg-white rounded-lg border border-gray-300 font-montserrat">
+      <div className="mt-4 bg-white rounded-lg border border-gray-300 font-montserrat">
         <div className="flex justify-between border-b border-gray-300">
           {reservationInfo.map((info, index) => (
             <div
